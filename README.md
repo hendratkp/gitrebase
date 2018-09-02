@@ -11,7 +11,6 @@ function A(){
 
 2. Then I commit with "first commit" on branch master
 
-<<<<<<< HEAD
 2b. Oops, Someone changes on branch master
 
 -- so I have 2 branch, and not merged.
